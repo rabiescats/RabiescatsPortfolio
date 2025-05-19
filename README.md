@@ -16,6 +16,11 @@ I do multiple things in game development. My strongest suits are in Writing, 3D 
 Some of my weaker areas that developing games has demanded I hone are Character Design, Storyboarding, and Graphic Design.
 </details>
 
+<details>
+  <summary>What certifications do you have?</summary>
+
+</details>
+
 ---
 # Projects I've worked on
 
@@ -25,6 +30,7 @@ Some of my weaker areas that developing games has demanded I hone are Character 
 ### Woodsman
 [Woodsman](https://github.com/rabiescats/Production-Team-1)
 
+![Woodsmanmap](https://github.com/rabiescats/RabiescatsPortfolio/blob/main/images/Woodsmanmap.png)
 
 </details>
 
