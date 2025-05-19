@@ -18,6 +18,13 @@ Some of my weaker areas that developing games has demanded I hone are Character 
 
 <details>
   <summary>What certifications do you have?</summary>
+I have certifications for...
+
+- Computer Programming 1
+- Computer Programming 2
+- Game Development Fund. 1
+- Game Development FUnd. 2
+
 
 </details>
 
@@ -32,6 +39,7 @@ Some of my weaker areas that developing games has demanded I hone are Character 
 
 ![Woodsmanmap](https://github.com/rabiescats/RabiescatsPortfolio/blob/main/images/Woodsmanmap.png)
 
+Woodsman is a project I've played the role of modeler and assistant coder for, as well as character conception. Its a game about a robot that gains some form of sentience after many years of hard work in a forest, and it sets off in a fast-paced first person melee fighter to find its maker and earn itself freedom.
 </details>
 
 
