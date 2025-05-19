@@ -17,6 +17,21 @@ Some of my weaker areas that developing games has demanded I hone are Character 
 </details>
 
 ---
+# Projects I've worked on
+
+<details>
+  <summary>Woodsman</summary>
+
+### Woodsman
+[Woodsman](https://github.com/rabiescats/Production-Team-1)
+
+
+</details>
+
+
+
+
+---
 # Some Assets I've Made
 
 <details>
