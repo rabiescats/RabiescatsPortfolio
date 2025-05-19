@@ -21,10 +21,15 @@ Some of my weaker areas that developing games has demanded I hone are Character 
 
 <details>
   <summary>Models</summary>
-
+Robot Player model for the game "Woodsman"
+  
 ![Robot](https://github.com/rabiescats/RabiescatsPortfolio/blob/main/images/woodsmenBot.png)
 
+A base model for the humanoid enemies in Woodsman to be built off of
+
 ![Human Base](https://github.com/rabiescats/RabiescatsPortfolio/blob/main/images/humanEnemy.png)
+
+A player weapon inspired by Titanfall 2's scrapped machete
 
 ![Machete](https://github.com/rabiescats/RabiescatsPortfolio/blob/main/images/IMG_3550.jpeg)
   
