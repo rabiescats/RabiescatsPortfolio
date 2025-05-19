@@ -22,6 +22,11 @@ Some of my weaker areas that developing games has demanded I hone are Character 
 <details>
   <summary>Models</summary>
 
+![Robot](https://github.com/rabiescats/RabiescatsPortfolio/blob/main/images/woodsmenBot.png)
+
+![Human Base](https://github.com/rabiescats/RabiescatsPortfolio/blob/main/images/humanEnemy.png)
+
+![Machete](https://github.com/rabiescats/RabiescatsPortfolio/blob/main/images/IMG_3550.jpeg)
   
 </details>
 
